@@ -34,6 +34,7 @@ This project visualizes stock market trends and predicts future stock prices. Us
 stock-market-predictor/
 ├── app.py                   # Main Streamlit application
 ├── stock_prediction.ipynb   # Jupyter notebook for data training & model creation
-├── keras_model.h5           # The trained LSTM model file
+├── model.keras              # The trained LSTM model file
 ├── requirements.txt         # List of dependencies
+├── runtime.txt              # Python version
 └── README.md                # Project documentation
